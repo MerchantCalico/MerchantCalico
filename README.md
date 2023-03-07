@@ -10,8 +10,9 @@ I'm also the owner and project lead of the Greenhouse Modding group.
 
 You can view my mods on Modrinth [here.](https://modrinth.com/user/Pug)
 
+The best place to reach me is through Discord, as I'm quite active there.
+
 # Socials
-- Discord - Pug#1984
 - [Discord Server](https://discord.gg/UBfEjsANNz)
 - [YouTube](https://www.youtube.com/channel/MerchantPug)
 - [Twitter](https://twitter.com/MerchantPug)
