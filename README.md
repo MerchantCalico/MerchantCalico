@@ -5,7 +5,7 @@ I'm also the owner and project lead of the Greenhouse Modding group.
 
 - I've made Minecraft mods such as Bovines and Buttercups, TooManyOrigins and Apugli and I don't plan on stopping anytime soon.
 - I enjoy making things data driven.
-- I have an interest in non D&D TTRPGs and games, usually platformers and RPGs.
+- I have an interest in TTRPGs that aren't D&D and games, usually platformers and RPGs.
 - My pronouns are she/her.
 
 You can view my mods on Modrinth [here.](https://modrinth.com/user/Pug)
