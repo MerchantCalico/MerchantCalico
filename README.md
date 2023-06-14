@@ -14,6 +14,6 @@ The best place to reach me is through Discord, as I'm quite active there.
 
 # Socials
 - [Discord Server](https://discord.gg/UBfEjsANNz)
-- [YouTube](https://www.youtube.com/channel/MerchantPug)
+- [YouTube](https://www.youtube.com/channel/@MerchantPug)
 - [Twitter](https://twitter.com/MerchantPug)
-- [Cohost](https://cohost.org/)
+- [Cohost](https://cohost.org/merchantpug)
