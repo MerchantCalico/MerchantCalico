@@ -3,7 +3,7 @@
 I'm MerchantPug, I'm a girl from Australia who works on Minecraft mods and has a heavy interest in game design.
 I'm also the owner and project lead of the Greenhouse Modding group.
 
-- I've made Minecraft mods such as Bovines and Buttercups, TooManyOrigins and Apugli and I don't plan on stopping anytime soon.
+- I've made Minecraft mods such as Bovines and Buttercups, and Farmer's Delight Refabricated. I don't plan on stopping anytime soon.
 - I enjoy making things data driven.
 - I have an interest in TTRPGs that aren't D&D and games, usually platformers and RPGs.
 - My pronouns are she/they/it.
@@ -16,5 +16,6 @@ The best place to reach me is through Discord, as I'm quite active there.
 # Socials
 - [Discord Server](https://discord.gg/UBfEjsANNz)
 - [YouTube](https://www.youtube.com/@merchantpug/home)
-- [Twitter](https://twitter.com/MerchantPug)
+- [BlueSky](https://bsky.app/profile/merchantpug.net)
+- [Fediverse](https://tech.lgbt/@MerchantPug)
 - [Tumblr](https://www.tumblr.com/merchantpug/)
