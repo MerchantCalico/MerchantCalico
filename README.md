@@ -1,21 +1,23 @@
-# Hi what's up.
+Hi, hello, hiiii :3
 
-I'm MerchantPug, I'm a girl from Australia who works on Minecraft mods and has a heavy interest in game design.
-I'm also the owner and project lead of the Greenhouse Modding group.
+# About Me
+I'm MerchantCalico, I'm a girl from Australia who works on Minecraft mods and has a heavy interest in game design.
+I'm also the owner and project lead of the Greenhouse Modding group, as well as the founder and an organizer of [Mod Garden](https://modgarden.net/).
 
 - I've made Minecraft mods such as Bovines and Buttercups, and Farmer's Delight Refabricated. I don't plan on stopping anytime soon.
 - I enjoy making things data driven.
-- I have an interest in TTRPGs that aren't D&D and games, usually platformers and RPGs.
-- My pronouns are she/they/it.
+- I have an interest in TTRPGs and games, usually platformers and RPGs.
+- My pronouns are she/it/they.
 
-You can view my mods on Modrinth [here.](https://modrinth.com/user/Pug)
-You may donate to me on Ko-Fi [here.](https://ko-fi.com/merchantpug)
+You can view my mods [on Modrinth](https://modrinth.com/user/Torty) or [on CurseForge.](https://www.curseforge.com/members/merchantcalico/projects)
+You may donate to me [on Ko-Fi](https://ko-fi.com/merchantcalico), but please only do so if you're in a financially stable position.
 
-The best place to reach me is through Discord, as I'm quite active there.
+The best place to reach me is through Discord, as I'm quite active there, @merchantcalico.
 
 # Socials
-- [Discord Server](https://discord.gg/UBfEjsANNz)
-- [YouTube](https://www.youtube.com/@merchantpug/home)
-- [BlueSky](https://bsky.app/profile/merchantpug.net)
-- [Fediverse](https://tech.lgbt/@MerchantPug)
-- [Tumblr](https://www.tumblr.com/merchantpug/)
+- [Greenhouse Discord Server](https://discord.gg/UBfEjsANNz)
+- [Greenhouse Matrix Server](https://matrix.to/#/#greenhouse:merchantcalico.net)
+- [YouTube](https://www.youtube.com/@merchantcalico/)
+- [BlueSky](https://bsky.app/profile/merchantcalico.net)
+- [Fediverse](https://shrimp.meow.company/@MerchantCalico)
+- [Tumblr](https://www.tumblr.com/merchantcalico/)
