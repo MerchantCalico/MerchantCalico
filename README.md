@@ -19,5 +19,5 @@ The best place to reach me is through Discord, as I'm quite active there, @merch
 - [Greenhouse Matrix Server](https://matrix.to/#/#greenhouse:merchantcalico.net)
 - [YouTube](https://www.youtube.com/@merchantcalico/)
 - [BlueSky](https://bsky.app/profile/merchantcalico.net)
-- [Fediverse](https://shrimp.meow.company/@MerchantCalico)
+- [Fediverse](https://shrimp.meow.company/@calico)
 - [Tumblr](https://www.tumblr.com/merchantcalico/)
